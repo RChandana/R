@@ -52,6 +52,9 @@ All together :
 
 
 
+
+
+
 ### Vector Operations
 
 ```vector = c(11, 42, 93, 77, 15, 69, 27, 98, 9, 160)```
@@ -103,3 +106,7 @@ All together
 
 
 <img width="389" alt="Screenshot 2023-01-11 at 11 18 50 AM" src="https://user-images.githubusercontent.com/89007620/211727593-97169912-4f07-4f98-8c01-7e88b60c0e8d.png">
+
+
+### Logical Operations
+
