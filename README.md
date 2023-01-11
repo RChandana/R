@@ -87,8 +87,14 @@ All together :
 ```length(vector)```
 
 
-```vector_2 = c("a", "b", "c", "d", "e")```
-```vector_2```
-``````
-``````
+<img width="124" alt="Screenshot 2023-01-11 at 11 16 37 AM" src="https://user-images.githubusercontent.com/89007620/211727284-d2171c95-69d9-4035-85f3-262c5d28d74f.png">
 
+
+```vector_2 = c("a", "b", "c", "d", "e")```
+
+<img width="295" alt="Screenshot 2023-01-11 at 11 17 02 AM" src="https://user-images.githubusercontent.com/89007620/211727370-ec3dd0c5-3f79-458b-b5ce-648d86526142.png">
+
+
+```vector_2```
+
+<img width="184" alt="Screenshot 2023-01-11 at 11 17 22 AM" src="https://user-images.githubusercontent.com/89007620/211727417-4810871b-47d5-41ad-a206-830aa508dbaa.png">
