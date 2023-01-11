@@ -49,3 +49,7 @@
 All together : 
 
 <img width="286" alt="Screenshot 2023-01-10 at 8 57 04 PM" src="https://user-images.githubusercontent.com/89007620/211592277-e9db7f75-7b18-4842-b655-e30404117f39.png">
+
+
+
+### Vector Operations
