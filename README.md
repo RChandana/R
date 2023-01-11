@@ -111,23 +111,103 @@ All together
 ### Logical Operations
 
 ```num = c(10, 20, 30, 40, 50)```
-```num < 20 | num > 40```
-```all (num > 0)```
-```any (num > 20)```
-```sqrt(81)```
-```sqrt(-1)```
-```sqrt(-1 + 0i)```
-```sqrt(as.complex(-10))```
-```x < 10 x```
 
-```x = x + 20
-x```
-```a = c(1, 2, 3, 4)
-b = c(5, 6, 7, 8)```
+<img width="216" alt="Screenshot 2023-01-11 at 9 37 05 PM" src="https://user-images.githubusercontent.com/89007620/211856367-bdfc6261-8e08-47d9-a959-057c46c219d8.png">
+
+
+```num < 20 | num > 40```
+
+
+<img width="246" alt="Screenshot 2023-01-11 at 9 37 29 PM" src="https://user-images.githubusercontent.com/89007620/211856464-d5c81e39-3607-4e53-a15b-2955a7008438.png">
+
+
+```all (num > 0)```
+
+
+<img width="119" alt="Screenshot 2023-01-11 at 9 38 04 PM" src="https://user-images.githubusercontent.com/89007620/211856596-cbba2faf-4e75-418f-b0ba-90c4b8541441.png">
+
+```any (num > 20)```
+
+
+<img width="124" alt="Screenshot 2023-01-11 at 9 38 20 PM" src="https://user-images.githubusercontent.com/89007620/211856668-8375c8c5-83ee-43e7-88fe-c5dfb6a849e1.png">
+
+
+
+```sqrt(81)```
+
+
+<img width="80" alt="Screenshot 2023-01-11 at 9 38 43 PM" src="https://user-images.githubusercontent.com/89007620/211856742-2ceba7ea-67e2-495a-b704-850f8279c90d.png">
+
+
+
+```sqrt(-1)```
+
+
+<img width="209" alt="Screenshot 2023-01-11 at 9 39 06 PM" src="https://user-images.githubusercontent.com/89007620/211856813-632d1dfc-d305-482d-98e2-f5fa356e743b.png">
+
+
+
+```sqrt(-1 + 0i)```
+
+
+<img width="115" alt="Screenshot 2023-01-11 at 9 39 26 PM" src="https://user-images.githubusercontent.com/89007620/211856904-4c3ffb73-ab20-409e-9ba3-ccdb6065bf9e.png">
+
+
+
+```sqrt(as.complex(-10))```
+
+
+<img width="176" alt="Screenshot 2023-01-11 at 9 40 14 PM" src="https://user-images.githubusercontent.com/89007620/211857093-39ced77b-53db-43ed-ab4d-ec2467fe9e79.png">
+
+
+
+```x < 10```
+
+
+<img width="901" alt="Screenshot 2023-01-11 at 9 40 40 PM" src="https://user-images.githubusercontent.com/89007620/211857222-05b42c18-549a-4dd1-b6c6-22fc381347b0.png">
+
+
+```x```
+
+
+<img width="471" alt="Screenshot 2023-01-11 at 9 41 10 PM" src="https://user-images.githubusercontent.com/89007620/211857325-03d00881-ca26-4aea-85d9-656a8f2348e7.png">
+
+
+
+```x = x + 20```
+
+
+<img width="470" alt="Screenshot 2023-01-11 at 9 41 34 PM" src="https://user-images.githubusercontent.com/89007620/211857405-f191d387-185f-4a71-a505-070117292ff9.png">
+
+
+
+```a = c(1, 2, 3, 4)```
+```b = c(5, 6, 7, 8)```
+
+
+<img width="149" alt="Screenshot 2023-01-11 at 9 42 20 PM" src="https://user-images.githubusercontent.com/89007620/211857581-8045c784-cc75-48ff-8d26-3cfe2cac6568.png">
+
 ```a + b```
+
+
+<img width="121" alt="Screenshot 2023-01-11 at 9 42 33 PM" src="https://user-images.githubusercontent.com/89007620/211857637-147a1664-2973-4c93-b1f2-a2b1b483e293.png">
+
 ```a*b```
+
+<img width="121" alt="Screenshot 2023-01-11 at 9 42 54 PM" src="https://user-images.githubusercontent.com/89007620/211857745-2054e406-6c62-44ac-a161-7016fdce2c87.png">
+
+
+
 ```a - b```
+
+<img width="122" alt="Screenshot 2023-01-11 at 9 43 11 PM" src="https://user-images.githubusercontent.com/89007620/211857811-89c84f03-3b0a-4cf3-98e1-84e3a4cc4ad8.png">
+
+
 ```b%%a```
+
+<img width="94" alt="Screenshot 2023-01-11 at 9 43 28 PM" src="https://user-images.githubusercontent.com/89007620/211857883-227323fc-87e8-438d-8c53-abff94a2aab1.png">
+
+
 ```b/a```
 ```a^2```
 ```d = list(1, 2, 3, 4)
