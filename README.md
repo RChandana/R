@@ -98,3 +98,8 @@ All together :
 ```vector_2```
 
 <img width="184" alt="Screenshot 2023-01-11 at 11 17 22 AM" src="https://user-images.githubusercontent.com/89007620/211727417-4810871b-47d5-41ad-a206-830aa508dbaa.png">
+
+All together
+
+
+<img width="389" alt="Screenshot 2023-01-11 at 11 18 50 AM" src="https://user-images.githubusercontent.com/89007620/211727593-97169912-4f07-4f98-8c01-7e88b60c0e8d.png">
