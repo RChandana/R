@@ -54,15 +54,15 @@ All together :
 
 ### Vector Operations
 
-``````
-``````
-``````
-``````
-``````
-``````
-``````
-``````
-``````
+```vector = c(11, 42, 93, 77, 15, 69, 27, 98, 9, 160)```
+```vector```
+```vector[5]```
+```class(vector)```
+```min(vector)```
+```max(vector)```
+```length(vector)```
+```vector_2 = c("a", "b", "c", "d", "e")```
+```vector_2```
 ``````
 ``````
 
