@@ -209,7 +209,22 @@ All together
 
 
 ```b/a```
+
+<img width="289" alt="Screenshot 2023-01-11 at 9 44 27 PM" src="https://user-images.githubusercontent.com/89007620/211858151-7f9d1cbe-dc6b-4feb-93df-9447d657a26d.png">
+
+
+
 ```a^2```
-```d = list(1, 2, 3, 4)
-d```
+
+<img width="119" alt="Screenshot 2023-01-11 at 9 44 43 PM" src="https://user-images.githubusercontent.com/89007620/211858224-816aa247-5b45-47d4-bb5e-cd12515a3626.png">
+
+
+
+```d = list(1, 2, 3, 4)```
+
+<img width="167" alt="Screenshot 2023-01-11 at 9 45 29 PM" src="https://user-images.githubusercontent.com/89007620/211858418-c0a75284-b65e-475d-97bc-85c34bebbc77.png">
+
 ```help(list)```
+
+<img width="902" alt="Screenshot 2023-01-11 at 9 46 16 PM" src="https://user-images.githubusercontent.com/89007620/211858599-c201e8e7-9eef-4ba9-856b-4d34776dc5ab.png">
+
