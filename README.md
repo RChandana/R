@@ -55,12 +55,38 @@ All together :
 ### Vector Operations
 
 ```vector = c(11, 42, 93, 77, 15, 69, 27, 98, 9, 160)```
+
+<img width="392" alt="Screenshot 2023-01-11 at 11 10 56 AM" src="https://user-images.githubusercontent.com/89007620/211726498-67d6c428-6fc1-4f63-bafc-425a67a44d22.png">
+
+
 ```vector```
+
+<img width="333" alt="Screenshot 2023-01-11 at 11 12 32 AM" src="https://user-images.githubusercontent.com/89007620/211726682-71b8eab9-8873-4eda-8fa1-386e8f8fd108.png">
+
+
 ```vector[5]```
+
+<img width="96" alt="Screenshot 2023-01-11 at 11 13 11 AM" src="https://user-images.githubusercontent.com/89007620/211726771-78f81793-c397-4cc4-8586-d486b6e2e236.png">
+
+
 ```class(vector)```
+
+<img width="117" alt="Screenshot 2023-01-11 at 11 13 43 AM" src="https://user-images.githubusercontent.com/89007620/211726837-55fc2c1e-5229-47c0-ab9b-77d3315c7cfe.png">
+
+
 ```min(vector)```
+
+<img width="107" alt="Screenshot 2023-01-11 at 11 14 16 AM" src="https://user-images.githubusercontent.com/89007620/211726934-5a63687d-6f9c-40c9-aa5f-9ed5b2266fb8.png">
+
+
 ```max(vector)```
+
+<img width="103" alt="Screenshot 2023-01-11 at 11 14 55 AM" src="https://user-images.githubusercontent.com/89007620/211727037-2bfa25c6-736c-4460-8ef7-58b4a8817aa0.png">
+
+
 ```length(vector)```
+
+
 ```vector_2 = c("a", "b", "c", "d", "e")```
 ```vector_2```
 ``````
