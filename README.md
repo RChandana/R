@@ -226,5 +226,6 @@ All together
 
 ```help(list)```
 
-<img width="902" alt="Screenshot 2023-01-11 at 9 46 16 PM" src="https://user-images.githubusercontent.com/89007620/211858599-c201e8e7-9eef-4ba9-856b-4d34776dc5ab.png">
+
+<img width="902" alt="Screenshot 2023-01-11 at 10 15 57 PM" src="https://user-images.githubusercontent.com/89007620/211865740-88cc498c-032e-4839-91d3-9dd9abf79a8b.png">
 
