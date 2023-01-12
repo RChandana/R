@@ -292,3 +292,6 @@ All together
 <img width="594" alt="Screenshot 2023-01-12 at 4 19 16 PM" src="https://user-images.githubusercontent.com/89007620/212047392-9c288dad-b71e-4c34-8655-33d0c1aaf39a.png">
 
 
+All Together
+
+<img width="619" alt="Screenshot 2023-01-12 at 4 26 25 PM" src="https://user-images.githubusercontent.com/89007620/212048907-e508ada9-836e-4d28-8adc-f1b07e412284.png">
