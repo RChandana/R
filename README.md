@@ -235,11 +235,60 @@ All together
 
 
 ```Matrix = matrix(c(1, 3, 5, 7, 9, 11, 13, 15, 17), nrow = 3, ncol = 3, byrow = TRUE)```
+
+
+<img width="623" alt="Screenshot 2023-01-12 at 4 15 46 PM" src="https://user-images.githubusercontent.com/89007620/212046597-d8f7d3cb-0303-4a74-9eb7-f7a6eec0a883.png">
+
+
+
 ```Matrix[2,] #display 2nd row```
+
+
+
+<img width="218" alt="Screenshot 2023-01-12 at 4 16 02 PM" src="https://user-images.githubusercontent.com/89007620/212046672-6d424314-c4e2-4362-9030-7328c0518fcc.png">
+
+
+
 ```Matrix[,3] #display 3rd column```
+
+
+<img width="238" alt="Screenshot 2023-01-12 at 4 16 32 PM" src="https://user-images.githubusercontent.com/89007620/212046783-b195806a-8867-4bbf-b3a5-fc9b4cdd9812.png">
+
+
 ```Matrix[1,3] #display 1st row and 3rd column```
+
+
+<img width="334" alt="Screenshot 2023-01-12 at 4 16 58 PM" src="https://user-images.githubusercontent.com/89007620/212046895-456f5869-20e6-4ebb-958e-23d38e63745a.png">
+
+
+
 ```Matrix[, c(1, 2)] #display 1st and 2nd column only```
+
+
+<img width="387" alt="Screenshot 2023-01-12 at 4 17 26 PM" src="https://user-images.githubusercontent.com/89007620/212047000-909336e7-d742-4a1f-bb66-551c3e1b0a96.png">
+
+
+
 ```t(Matrix) #Transpose of Matrix```
+
+
+
+<img width="243" alt="Screenshot 2023-01-12 at 4 17 53 PM" src="https://user-images.githubusercontent.com/89007620/212047086-44f13e87-eb6a-4cd6-a614-e07d2f68f978.png">
+
+
+
 ```Matrix_2 = matrix(c(10, 20, 30, 40, 50, 60), nrow = 3, ncol = 2, byrow = FALSE)```
+
+
+
 ```Matrix_3 = matrix(c(70, 80, 90), nrow = 3, ncol = 1)```
+
+
+
 ```Matrix_4 = cbind(Matrix_2, Matrix_3)```
+
+
+
+<img width="594" alt="Screenshot 2023-01-12 at 4 19 16 PM" src="https://user-images.githubusercontent.com/89007620/212047392-9c288dad-b71e-4c34-8655-33d0c1aaf39a.png">
+
+
