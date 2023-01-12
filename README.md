@@ -234,15 +234,12 @@ All together
  
 
 
-``````
-``````
-``````
-``````
-``````
-``````
-``````
-``````
-``````
-``````
-``````
-``````
+```Matrix = matrix(c(1, 3, 5, 7, 9, 11, 13, 15, 17), nrow = 3, ncol = 3, byrow = TRUE)```
+```Matrix[2,] #display 2nd row```
+```Matrix[,3] #display 3rd column```
+```Matrix[1,3] #display 1st row and 3rd column```
+```Matrix[, c(1, 2)] #display 1st and 2nd column only```
+```t(Matrix) #Transpose of Matrix```
+```Matrix_2 = matrix(c(10, 20, 30, 40, 50, 60), nrow = 3, ncol = 2, byrow = FALSE)```
+```Matrix_3 = matrix(c(70, 80, 90), nrow = 3, ncol = 1)```
+```Matrix_4 = cbind(Matrix_2, Matrix_3)```
