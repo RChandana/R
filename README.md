@@ -292,3 +292,7 @@ All together
 <img width="594" alt="Screenshot 2023-01-12 at 4 19 16 PM" src="https://user-images.githubusercontent.com/89007620/212047392-9c288dad-b71e-4c34-8655-33d0c1aaf39a.png">
 
 
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
