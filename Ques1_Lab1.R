@@ -1,4 +1,4 @@
-# Enter the elements {5,12,7,2,6,45,11,3,63} and store in a variable 𝑥
+# Enter the elements {5, 12, 7, 2, 6, 45, 11, 3, 63} and store in a variable 𝑥
 x = c(5, 12, 7, 2, 6, 45, 11, 3, 63)
 
 # Display 𝑥 values 
