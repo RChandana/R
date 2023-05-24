@@ -1,4 +1,4 @@
-# R :tada:
+# R
 
 ### Basic Operations
 
